@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-tibi
 - 👀 I’m interested in Development & Technology
-- 🌱 I know about C# .NET & ASP.NET & Graphics & Communication Protocol (KNX) & IoT 
+- 🌱 I know about C# .NET & ASP.NET & Graphics & Communication Protocol (TCP/IT & KNX) & IoT 
 - 💞️ I’m looking to collaborate on Development new software, IoT projects
 - 📫 How to reach me ahmd_tibi@yahoo.com | 00971-50-2844176 | https://web.whatsapp.com/send/?phone=971502844176 | 00963-946-973820 | https://web.whatsapp.com/send/?phone=963946973820
 
