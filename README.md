@@ -2,8 +2,7 @@
 - 👀 I’m interested in Development & Technology
 - 🌱 I’m currently learning C# .NET
 - 💞️ I’m looking to collaborate on Development new software, IoT projects
-- 📫 How to reach me ahmd_tibi@yahoo.com | 00971-50-2844176 | https://web.whatsapp.com/send/?phone=971502844176
--                                           00963-946-973820 | https://web.whatsapp.com/send/?phone=963946973820
+- 📫 How to reach me ahmd_tibi@yahoo.com | 00971-50-2844176 | https://web.whatsapp.com/send/?phone=971502844176 | 00963-946-973820 | https://web.whatsapp.com/send/?phone=963946973820
 
 <!---
 a-tibi/a-tibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
